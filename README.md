@@ -19,8 +19,8 @@ Built with strict separation of logic and credentials using secure environment r
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd defi-auto-swapper
+   git clone https://github.com/btctrl/evm-uniswap-swapper
+   cd evm-uniswap-swapper
    ```
 
 2. **Configure Environment (`.env`):**
